@@ -1,0 +1,26 @@
+/* "Jacquarda Bastarda 9" */
+
+h1 {
+    /* background: url(exh_img.png); */
+       line-break:anywhere;
+       padding: 0px;
+       margin: 0%;
+       text-align:left;
+       display:block;
+   font-size: 40px;
+   font-family:"Lateef",'Times New Roman', Times, serif;
+  }
+
+  p {
+    /* background: url(exh_img.png); */
+       line-break:strict;
+       padding: 10px;
+       /* margin: 5%; */
+       text-align:center;
+       display:block;
+   font-size: 25px;
+   font-family:"Lateef", serif;
+  }
+
+
+
